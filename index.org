@@ -1,0 +1,74 @@
+#+TITLE: Staffan Fogelmark, Professor Emeritus, Ancient Greek
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+KEYWORDS: Staffan Fogelmark
+#+LANGUAGE: en
+
+# Stylesheet from:
+# https://github.com/gongzhitaao/orgcss
+
+
+[[file:fig/1272916_fogelmark.jpg]]
+
+* Select academic curriculum
+
+
+** Academic Degrees
+   Lund University: B.A. 1964; M.A. 1968; PhD 1972.
+
+** Academic Positions
+   Lund University: Reader in Greek, 1972-85; Lecturer in Greek, 1985-96. University of Gothenburg: Professor of Greek, 1997-2004.
+
+** International Appointments/Honorary Fellowships
+   - Harvard University, USA Fellow of The Center for Hellenic Studies, Washington, D.C. (1973/74).
+   - University of Edinburgh, UK Charles Gordon Mackay Lecturer (1979).
+   - Lund University The New Society of Letters (1980).
+
+** Prizes
+  - The Gleerup Prize, The New Society of Letters, Lund University (1992). Lund University Student Union Prize for Pedagogical Excellence (1995).
+  - The ILAB Breslauer Prize for Bibliography (2018)
+
+** Research Scholarship
+   Swedish Council for Research in the Humanities and Social Sciences (1991-93).
+
+** Public Lectures
+   Public lectures at universities in Great Britain and the USA.
+
+* Publications
+** Books
+
+   - Studies in Pindar with particular reference to Paean VI and Nemean VII, Lund 1972: CWK Gleerup
+     On archaic Greek lyric poetry
+   - Chrysaigis IG 12:5,611 (Scripta minora Regiae Societatis Humaniorum Litterarum Lundensis 1974-75:2), Lund 1975: CWK Gleerup
+     On Greek poetic inscriptions on stone and archaic choral lyric poetry
+   - Flemish and Related Panel-Stamped Bindings: Evidence and Principles New York 1990: Bibliographical Society of America
+     On late medieval and early Renaissance bookbindings
+   - The Kallierges Pindar. A Study in Renaissance
+     Greek Scholarship and Printing. Cologne 2015: Verlag Jürgen Dinter
+
+** Articles
+
+   Numerous articles on Greek philology and medieval and Renaissance book history published in international periodicals 1975-2009
+
+   Areas of Research Greek archaic epic and lyric poetry; Rhetoric; Hellenistic poetry; Renaissance Greek scholarship; Renaissance Greek printing; Medieval and Renaissance bibliopegy; Analytical bibliography.
+
+   Research in progress The Kallierges Pindar: A case study in Renaissance Greek scholarship and printing.
+
+   Recent bibliography (2002- )
+
+   ”Four Epigrams in the Greek Anthology: AP 7.365, 7, 651, 6.276 and 7.79”, Eranos 100 (2002), 23-37.
+
+   ”To Bee or Not To Bee? Antipater AP 7.34: A Mistaken Interpretation”, Eranos 100 (2002), 128-136.
+
+   “A Mistaken Attribution”, The Book Collector 51 (2002), 130-131.
+
+   ”The Anonymous Rome 1522 Chrysoloras: A Newly Discovered Greek Press”, PBSA 97 (2003), 5-42.
+
+   ”In my End is my Beginning: Verbal Echoes in Pindar’s 9th Pythian”, Studia Palaeophilologica, ed. Stephen M. Bay (Champaign, IL: Stipes, 2004), 71-78.
+
+   “The 1515 Kallierges Pindar: A First Report”, S?????µata (Syncharmata) ed. O. Strid, D. Searby & T. Hållander, Acta Universitatis Upsaliensis, Studia Graeca Upsaliensia 21, Uppsala 2006.
+
+   “Pindar, Pythian 8.95-6: An Unrecognized Problem”, Hermes 136 (2008), 383-90.
+
+   “Pindaros på svenska: En seriös granskning av Ingvar Björkesons översättning”, Text. Svensk Tidskrift för Bibliografi (Uppsala) 7:2 (2009), 63-132.
+
+   (See also Contemporary Authors, Gale Research Inc., vol. 139. pp. 136-7: Nationalencyklopedin, Supplement 1, 2000, p. 584.)
