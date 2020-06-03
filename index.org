@@ -1,4 +1,6 @@
-#+TITLE: Staffan Fogelmark, Professor Emeritus, Ancient Greek
+#+TITLE: STAFFAN FOGELMARK
+#+SUBTITLE: Emeritus Professor of Greek
+#+OPTIONS: toc:nil author:nil ^:nil email:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
 #+KEYWORDS: Staffan Fogelmark
 #+LANGUAGE: en
@@ -10,8 +12,6 @@
 [[file:fig/1272916_fogelmark.jpg]]
 
 * Select academic curriculum
-
-
 ** Academic Degrees
    Lund University: B.A. 1964; M.A. 1968; PhD 1972.
 
@@ -23,8 +23,9 @@
    - University of Edinburgh, UK Charles Gordon Mackay Lecturer (1979).
    - Lund University The New Society of Letters (1980).
 
-** Prizes
-  - The Gleerup Prize, The New Society of Letters, Lund University (1992). Lund University Student Union Prize for Pedagogical Excellence (1995).
+** Awards
+  - The Gleerup Prize, The New Society of Letters, Lund University (1992).
+  - Lund University Student Union Prize for Pedagogical Excellence (1995).
   - The ILAB Breslauer Prize for Bibliography (2018)
 
 ** Research Scholarship
