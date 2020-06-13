@@ -1,0 +1,64 @@
+#+TITLE: Flemish and Related Panel-Stamped Bindings: Evidence and Principles
+#+SUBTITLE: Bibliographical Society of America, New York 1990
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+LINK_UP: http://fogelmark.org
+#+OPTIONS: toc:nil author:nil ^:nil email:nil num:nil
+#+OPTIONS: html-postamble:nil
+#+LANGUAGE: en
+#+KEYWORDS: staffan fogelmark
+#+DESCRIPTION: Reviews of Flemish and Related Panel-Stamped Bindings by Staffan Fogelmark
+
+#+HTML: <center><p>Staffan Fogelmark</p></center>
+
+
+*Brief excerpts from reviews / statements in international press*
+
+#+begin_quote
+“Further, the Council that morning had accepted for publication Staffan Fogelmark's revolutionary work ...”.
+#+end_quote
+Joan M. Friedman, /Papers of the Bibliographical Society of America/  82:3, 1988, p. 389.
+
+
+#+begin_quote
+“Fogelmarks revolutionäre These wird durch das vorgeführte und analysierte Material deutlich und überzeugend belegt.”
+#+end_quote
+Dr. Susanne Rothe, /Zeitschrift für Bibliothekswesen und Bibliographie/ 38:6, 1991, p. 601.
+
+
+#+begin_quote
+“This is an important, indeed revolutionary, contribution ...”.
+#+end_quote
+A.R.A. Hobson, /Times Literary Supplement/,  December 6, 1991, p. 27.
+
+
+#+begin_quote
+“[...] this is a book of pioneering importance.”
+#+end_quote
+David Pearson, /Antiquarian Book Monthly/ XXI:2, 1994, pp. 28-29.
+
+
+#+begin_quote
+”Darin besteht die bahnbrechende Bedeutung seines Buches ...”. ”Bereits an dieser Stelle wird dem Leser des Buches von Fogelmark der Atem verschlagen.”
+#+end_quote
+Dr. Marianne Rozsondai, Text, /Swedish Journal of Bibliography/ 5:1, 1994, pp. 39-43.
+(Authorized tr. by Dr. István Hajdú, Bayerische Akademie der Wissenschaften,
+Munich, of the review in /Magyar Könyvszemle/ 4, 1993, pp. 490-492).
+
+
+#+begin_quote
+“Dr Fogelmark has done something that is rare in humanities research; he has taken a long-accepted principle ... and overturned it — convincingly so.” // “Like so much of the earlier work … overtaken by S. Fogelmark’s revolutionary Flemish and Related Panel-Stamped Bindings (1990).”
+#+end_quote
+Mirjam M. Foot, /The Library/,  7:1, 2000, p. 204.
+/The Book Collector/, 51:4, 2002, pp. 515-16.
+
+
+#+begin_quote
+“[...] the book ... overturns the results of virtually all earlier studies in the field at a stroke. It offers fundamentally new insights ... with far-reaching consequences. Fogel­mark’s book will undoubtedly remain a ’classic’...”.
+#+end_quote
+Jos M. M. Hermans, /Quaerendo/ 24: I, 1994, pp. 49-52.
+
+
+#+begin_quote
+“In sum, one may say simply that Fogelmark’s study is revolutionary. This is the first conceptual advance ... since the general methodology ... was codified a hun­dred years ago. [...] Fogelmark’s Flemish and Related Panel-Stamped Bindings will soon be seen to have earned a place as one of the rare classics ...”.
+#+end_quote
+Dr. Paul Needham, /Papers of the Bibliographical Society of America/  87:4, 1993 (1994), pp. 511-515.
