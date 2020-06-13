@@ -121,9 +121,6 @@
      edd. O. Strid, D. Searby & T. Hållander, Acta Universitatis Upsaliensis,
      Studia Graeca Upsaliensia 21 (Festschrift Kindstrand), Uppsala 2006, 37-48.
 
-
-   # next page
-
    - “Pindar, /Pythian/ 8.95-6: An Unrecognized Problem”, /Hermes/ 136 (2008),
      383-90.
 
@@ -134,6 +131,8 @@
    - “Pindaros, /Olympia/ 13.51”, /Humanitas: Festskrift till Arne Jönsson/,
      edd. A.M.H. Nilsson, A. Damtoft Poulsen & J. Svensson, Makadam Förlag,
      Göteborg & Stockholm 2017, 37-51.
+
+#+HTML: <p> </p>
 
    - For articles in Swedish (except the last two entries above),
      see the checklist in

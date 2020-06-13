@@ -1,17 +1,18 @@
 #+TITLE: Flemish and Related Panel-Stamped Bindings: Evidence and Principles
-#+SUBTITLE: Bibliographical Society of America, New York 1990
+#+SUBTITLE: Bibliographical Society of America, New York
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
-#+LINK_UP: http://fogelmark.org
+#+HTML_LINK_HOME: http://fogelmark.org
+#+HTML_LINK_UP: http://fogelmark.org
 #+OPTIONS: toc:nil author:nil ^:nil email:nil num:nil
 #+OPTIONS: html-postamble:nil
 #+LANGUAGE: en
 #+KEYWORDS: staffan fogelmark
 #+DESCRIPTION: Reviews of Flemish and Related Panel-Stamped Bindings by Staffan Fogelmark
 
-#+HTML: <center><p>Staffan Fogelmark</p></center>
+# #+HTML: <center><p>Staffan Fogelmark</p></center>
 
 
-*Brief excerpts from reviews / statements in international press*
+* Brief excerpts from reviews / statements in international press
 
 #+begin_quote
 “Further, the Council that morning had accepted for publication Staffan Fogelmark's revolutionary work ...”.
