@@ -11,6 +11,7 @@
 
 # #+HTML: <center><p>Staffan Fogelmark</p></center>
 
+[[file:fig/flemish.jpg]]
 
 * Brief excerpts from reviews / statements in international press
 

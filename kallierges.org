@@ -8,6 +8,8 @@
 #+KEYWORDS: staffan fogelmark kallierges pindar
 #+DESCRIPTION: Reviews of The Kallierges Pindar
 
+[[file:fig/kallierges.png]]
+
 #+begin_quote
 F.’s magnificent volumes address two different publics: Pindar specialists, who will find here a careful investigation of a crucial moment in Pindar’s textual history, the 1515 editio Romana; and book historians, who will discover a remarkable case study in Renaissance book production.
 #+end_quote
