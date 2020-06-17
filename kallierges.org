@@ -10,6 +10,8 @@
 
 [[file:fig/kallierges.png]]
 
+* Brief excerpts from reviews / statements in international press
+
 #+begin_quote
 F.’s magnificent volumes address two different publics: Pindar specialists, who will find here a careful investigation of a crucial moment in Pindar’s textual history, the 1515 editio Romana; and book historians, who will discover a remarkable case study in Renaissance book production.
 #+end_quote
@@ -84,7 +86,8 @@ nouvelle venue qu’est la bibliographie matérielle.
 #+begin_quote
 Fascinating as this is, it pales by comparison with Fogelmark’s other
 discovery, made on 20 June 1991, ‘a warm and sunny day’, when he went to look
-at the 1515 Pindar at Jesus College, Cambridge. (cont.)
+at the 1515 Pindar at Jesus College, Cambridge.
+(cont.)
 #+end_quote
 #+begin_quote
 The second and equally exciting find of this copy inspection was the discovery
@@ -98,6 +101,7 @@ Giambattista D’Alessio
 
 Monique MUND-DOPCHIE
 /L’Antiquité Classique/ 87 (2018), 711-14.
+
 Nicolas Barker
 /The Book Collector/, Winter 2018, 778-79.
 
@@ -140,3 +144,6 @@ The great mass of information, textual, physical and historical, is set out in g
 #+end_quote
 Nicolas Barker
 /The Book Collector/, Winter 2018, 778-79.
+
+* Where to buy
+  The book can still be had in bookshops or from the publisher: Jürgen Dinter, Buchholzstraße 8, D-51061 Köln/Cologne, Germany.
