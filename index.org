@@ -3,7 +3,7 @@
 #+SUBTITLE: Emeritus Professor of Greek
 #+OPTIONS: toc:nil author:nil ^:nil email:nil num:nil
 #+OPTIONS: html-postamble:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
 #+KEYWORDS: Staffan Fogelmark
 #+LANGUAGE: en
 #+KEYWORDS: staffan fogelmark
