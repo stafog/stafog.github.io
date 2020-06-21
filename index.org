@@ -63,12 +63,14 @@
      Litterarum Lundensis 1974-75:2). Lund: CWK Gleerup, 1975. (On Greek
      poetic inscriptions on stone and archaic choral lyric poetry; 52 pp.)
 
-   - /Flemish and Related Panel-Stamped Bindings: Evidence and Principles./
+   - /[[file:flemish.org][Flemish and Related Panel-Stamped Bindings: Evidence and Principles]]./
      New York: Bibliographical Society of America, 1990. (On late medieval and
-     Renaissance bookbindings; 270 pp., xlii plates.) (see [[file:flemish.org][reviews]])
+     Renaissance bookbindings; 270 pp., xlii plates.)
+   # (see [[file:flemish.org][reviews]])
 
-   - /The Kallierges Pindar./ A Study in Renaissance Greek Scholarship and
-     Printing. Cologne: Dinter, 2015. (804 pp. in two vols.) (see [[file:kallierges.org][reviews]])
+   - /[[file:kallierges.org][The Kallierges Pindar]]./ A Study in Renaissance Greek Scholarship and
+     Printing. Cologne: Dinter, 2015. (804 pp. in two vols.)
+   # (see [[file:kallierges.org][reviews]])
 
 ** Articles
 
