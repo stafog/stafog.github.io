@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2020-06-22 Mon 12:12 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Response to Giambattista D’Alessio’s review of The Kallierges Pindar: A Study in Renaissance Greek Scholarship and Printing (2015)</title>
+<meta name="generator" content="Org mode" />
+<meta name="keywords" content="Giambattista D’Alessio Kallierges Pindar" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="org-div-home-and-up">
+ <a accesskey="h" href="http://fogelmark.org"> UP </a>
+ |
+ <a accesskey="H" href="http://fogelmark.org"> HOME </a>
+</div><div id="content">
+<h1 class="title">Response to Giambattista D’Alessio’s review of The Kallierges Pindar: A Study in Renaissance Greek Scholarship and Printing (2015)</h1>
+<p>
+My book is an interdisciplinary study, in which the first half deals with my
+discovery that as many as ten sheets of the 1515 Kallierges <i>Pindar</i> have been
+reset, most importantly at the beginning of the Pythian odes, where the first
+four quires (64 pages) have the Greek text in two textually different
+versions, which I call <i>Variant a</i> and <i>Variant b</i>. The second half of the book
+deals mainly with the perhaps even more important discovery of a unique and
+hitherto unknown document consisting of three densely set pages of Greek
+prose whose contents are sensational from a book historical point of view.
+</p>
+
+<p>
+The major disagreement between D’Alessio and myself concerns the correct order
+of priority of the eight reset sheets of the Pythian odes. After a long and
+careful physical examination of the book by applying methods of analytical
+bibliography, I was finally able in 2015 to present the result of 25 years of
+research, based on the evidence of 227 copies from upwards of 80 libraries on
+two continents. The collected evidence indicated overwhelmingly that the
+variant which was ultimately called <i>Variant a</i> was printed before <i>Variant b</i> —
+hence the denominations. D’Alessio, however, is convinced that <i>Variant b</i> was
+printed first.
+</p>
+
+<p>
+Our disagreement has led to a clash between two different methods of textual
+research. D’Alessio founds his opinion entirely on his own assessment of the
+merits of conflicting variant readings in the two settings. This is fine for
+an editor who is going to publish a new Greek edition, but is this a reliable
+tool also for deciding the question of priority?
+</p>
+
+<p>
+In chapter 4 (212) I explain why I have made little use of “one specific line
+of argumentation that might seem relevant to the issue” [sc. that of priority]
+“namely, which of the two variant readings is textually preferable in each
+case and therefore likely to represent the second setting [&#x2026;]”. To show the
+fallacy of this method I compared the stands taken by a number of modern
+editors that showed that they were divided in their preferences in the choice
+of variant readings: “To a great extent, assessment of variant readings always
+was and always will be a matter of personal preference.” In other words, it
+is useless as evidence in a case of priority and that is why I have
+refrained from using it, contrary to D’Alessio, who makes it his preferred
+category of evidence.
+</p>
+
+<p>
+There is another method, however, that can give reliable answers, if the
+questions and conditions are right. It is known as analytical bibliography and
+involves an examination of the physical properties of the text-bearer, and,
+by contrast, can yield 100% exact and reliable answers. This is the method I
+have applied most of the time throughout the book, as it is the perfect tool
+for answering my questions. It relies not on arbitrariness or personal
+opinion, but on hard physical evidence that can never be disputed or explained
+away and which is of an enormously higher evidential order than a discussion
+of the supposed merits of this or that variant reading.
+</p>
+
+<p>
+Like the great majority in the world of classical scholarship D’Alessio
+obviously has never himself practised or come into contact with this method
+and so may be excused for not realizing its enormous potential for supplying
+relevant and trustworthy evidence. For the question of priority can <i>only</i> be
+answered, or at least answered satisfactorily, by the application of
+bibliographical method; this is exactly what I have done in my book. But
+seventy pages of hard core evidence (120-194) cannot be repeated here.
+</p>
+
+<p>
+It is true that regarding the numerous arguments for the priority of <i>Variant
+a</i> that I have adduced, I have said that no one single argument alone is
+strong enough to settle the matter once and for all (336). However, in doing
+so I was referring to the kind of decisiveness with which the word is used in
+the sciences: I was simply anxious not to overstate my case. D’Alessio,
+however, seems to have misunderstood my caution as a confession that I myself
+have doubts about the priority of <i>Variant a</i> and about other matters that are
+expressed in an undogmatic way. This is not the case: many of the arguments
+based on bibliographical evidence are absolutely compelling, if we are to rely
+on sound logic.
+</p>
+
+<p>
+There is no point in confronting his various arguments one by one as they will
+all disappear at once as soon as it has become evident that <i>Variant a</i> was
+set before <i>Variant b</i>. And such evidence there is. But since D’Alessio — who
+never tries to disprove any of my many bibliographical arguments — seems to
+be blind even to the most obvious facts, let me adduce one that gives
+conclusive evidence once and for all that <i>Variant b</i> was set after <i>Variant
+a</i>. And this is a new argument.
+</p>
+
+<p>
+Bibliographical facts have made it evident that Kallierges began printing his
+<i>Pindar</i> on two presses: one had its signatures in minuscules, the other in
+majuscules. Kallierges was compositor for one of the presses, his foreman for
+the other, but the famous printer of course supervised the work at both
+presses. One press was going to print the Olympian odes and their scholia, the
+other, the Pythian, Nemean and Isthmian odes. This means that one
+press started with the first Olympian ode and the other, with the first
+Pythian ode. (The preliminaries were set and printed last as usual.)
+</p>
+
+<p>
+The early printers went to extreme lengths to make their books as perfect as
+possible. And there was one thing that no printer, be he good or bad, would
+ever do: he would never change the layout of the text once he had made up his
+mind and started the typesetting.
+</p>
+
+<p>
+The typesetting for the two presses started. Kallierges was the boss and he
+decided to use the layout we meet on the first page of the Olympian odes.
+Needless to say, his foreman at the other press was ordered to apply the same
+layout for the Pythian odes — and so he did, thereby creating what I have
+been referring to as <i>Variant a</i>; moreover, the layout of <i>Variant a</i> is exactly
+the same as that of the rest of the book, thereby proving its original status,
+as explained in the previous paragraph.
+</p>
+
+<p>
+According to D’Alessio, however, the text of <i>Variant b</i> was set and printed
+before that of <i>Variant a</i>. That would require that Kallierges would have to
+have had a total mental breakdown the first day on the job and ordered his
+foreman to apply a strikingly different layout for the Pythian odes, one with
+negatively indented left-margin emphasis, headings in majuscules instead of
+minuscules, etc. It would also require that Kallierges did not recover from
+his unfortunate mental breakdown until after his foreman had set and printed
+the fourth quire (i.e., after 64 pages), when Kallierges suddenly became his
+normal self again and ordered his foreman from now on to apply the same layout
+as the one he himself used for the Olympian odes.
+</p>
+
+<p>
+Needless to say none of this ever happened, and could not have happened, and,
+honestly, I do not think that D’Alessio would still claim that it did.
+</p>
+
+<p>
+Yet someone set the four quires of <i>Variant b</i>. When was it done and why? These
+questions are fully answered in my book and need not be repeated here in
+detail, but, as so often, D’Alessio hides vital information from his readers,
+for example, that also paper evidence proves beyond a shadow of a doubt that
+the resetting was done as an extra job <i>after</i> all the regular quires had been
+printed. This fact is mentioned a number of times in my book (192, 194, 234,
+259-61, 275, 395, 402); hence, D’Alessio knows this very well, as well as the
+fact that this is still another incontrovertible piece of evidence to prove
+that <i>Variant b</i> was printed after <i>Variant a</i>.
+</p>
+
+<p>
+Why was <i>Variant b</i>, a special edition, designed to stand out typographically?
+A full answer to this question can be found in chapter 9. If D’Alessio had
+read that chapter, he would not have suggested that <i>Variant b</i> was printed
+first.
+</p>
+
+<p>
+Furthermore, D’Alessio thinks that the copy with the dedication to Musurus was
+“printed <i>before</i> the preliminaries were reset (and, again, I see no obstacle
+in the ‘analytical evidence generated by the physical examination’).”
+</p>
+
+<p>
+My physical examination of the layout of the preliminaries of the “Musurus”
+copy shows, again without the slightest doubt, that they were reset and that
+the original was the ordinary preliminaries present in all known copies
+(316-322), not the other way round as D’Alessio would have it. Moreover, every
+resetting shows without a shadow of a doubt that the purpose of the resetting
+was to make room for the long dedication while at the same time keeping as
+much as possible of the original preliminary material: none of the resettings
+was contextual. To manage this Kallierges had to make more than thirty
+textual alterations, both large and small, all of them in the form of
+amputation. Yet, D’Alessio sees “no obstacle in the ‘analytical evidence
+generated by the physical examination’.” Personally, I could think of more
+than thirty obstacles. As usual, D’Alessio gives no alternative reason for
+these alterations. (The only piece of ‘evidence’ adduced by him is the usual
+one: “It seems more natural to me…”).
+</p>
+
+<p>
+In the text for note 1, D’Alessio appears to have spotted a mistake on my part
+and takes the opportunity to put things right: the 1515 <i>Pindar</i> is not the
+first Greek book printed in Rome as I have claimed, but “one of the first
+Greek books printed in Rome.” Instead, with a reference to A. Rollo, D’Alessio
+informs us that the first Greek book printed in Rome was <i>Operetta bellissima
+da imparare la lingua greca composta per Paulo Enea</i>, printed in 1510. (This is
+a short book of 22 pages only.)
+</p>
+
+<p>
+However, this is not a Greek book. A Greek book should be completely in Greek,
+or at least the major part of it: the 1515 <i>Pindar</i> is completely in Greek
+except for the privilege on the title page, which is in Latin. The <i>Operetta
+bellissima</i>, which is not even a Greek book — it is an Italian book! — has a
+fair amount of Greek in it, but the major part of the text is not in Greek but
+in Latin and Italian. Moreover, a Greek book would have the title in Greek
+(the 1515 <i>Pindar</i> does); the <i>Operetta bellissima</i> does not, because it is not a
+Greek book. In short: the Kallierges <i>Pindar</i> is still the first Greek book
+printed in Rome — <i>pace</i> D’Alessio and Rollo.
+</p>
+
+<p>
+That D’Alessio is not comfortable with arguments of a bibliographical nature
+is evidenced also by the confusion that reigns in his bibliographical
+descriptions. Speaking of the first quire of copy no. 134 which is a ternion,
+he describes it as a quire consisting of three double leaves (i.e., three
+pairs of conjugate leaves) “corresponding to six sheets and twelve pages” (2,
+last paragraph). This does not make sense: twelve pages is correct, but six
+sheets in quarto correspond to 48 pages. He goes on to explain that “all
+copies bar one” begin with a binion (i.e., two pairs of conjugate leaves)
+“corresponding to four sheets, and eight pages.” However, four sheets equal 32
+pages. This confusion continues on the next page. “After a lacuna of … two
+sheets, two further sheets are preserved…”. This is a misunderstanding: there
+is no lacuna of two sheets (16 pages), nor are 16 further pages preserved. I
+suspect that D’Alessio meant to write “leaves” instead of “sheets” in all
+these instances.
+</p>
+
+<p>
+However, these are not D’Alessio’s only confusing statements. On the second
+page we find the following quotation: “Ultimately Fogelmark himself assesses
+the evidence and the arguments for the priority of <i>Variant b</i> as in some cases
+‘bordering on decisiveness’, but finds ‘none of them strong enough to settle
+the matter once and for all’ (336).”  A Freudian slip?
+</p>
+</div>
+</body>
+</html>

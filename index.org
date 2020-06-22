@@ -36,8 +36,7 @@
 ** Awards
    - The Gleerup Prize, The New Society of Letters, Lund University (1992)
    - Lund University Student Union Prize for Pedagogical Excellence (1995)
-   - The ILAB Breslauer Prize for Bibliography (London, 25 May, 2018)
-     ([[file:fig/ILAB.jpg][picture]])
+   - [[file:ilab.org][The ILAB Breslauer Prize for Bibliography]] (London, 25 May, 2018)
 
 ** Research Scholarship
    Swedish Council for Research in the Humanities and Social Sciences
@@ -66,11 +65,12 @@
    - /[[file:flemish.org][Flemish and Related Panel-Stamped Bindings: Evidence and Principles]]./
      New York: Bibliographical Society of America, 1990. (On late medieval and
      Renaissance bookbindings; 270 pp., xlii plates.)
-   # (see [[file:flemish.org][reviews]])
 
-   - /[[file:kallierges.org][The Kallierges Pindar]]./ A Study in Renaissance Greek Scholarship and
-     Printing. Cologne: Dinter, 2015. (804 pp. in two vols.)
-   # (see [[file:kallierges.org][reviews]])
+   - /[[file:kallierges.org][The Kallierges Pindar A Study in Renaissance Greek Scholarship and
+     Printing]]./ Cologne: Dinter, 2015. (804 pp. in two vols.)
+
+   - [[file:bmcr.org][Response to Giambattista D’Alessio’s review]] in [[http://www.bmcreview.org/2017/07/20170727.html][BMCR 2017.07.27]] of The
+     Kallierges Pindar: A Study in Renaissance Greek Scholarship and Printing
 
 ** Articles
 

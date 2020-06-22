@@ -1,0 +1,10 @@
+#+TITLE: The ILAB Breslauer Prize for Bibliography
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
+#+HTML_LINK_HOME: http://fogelmark.org
+#+HTML_LINK_UP: http://fogelmark.org
+#+OPTIONS: toc:nil author:nil ^:nil email:nil num:nil
+#+OPTIONS: html-postamble:nil
+#+LANGUAGE: en
+#+KEYWORDS: staffan fogelmark ILAB Breslauer
+
+[[file:fig/ILAB.jpg]]

@@ -1,0 +1,191 @@
+#+TITLE: Response to Giambattista D’Alessio’s review of The Kallierges Pindar: A Study in Renaissance Greek Scholarship and Printing (2015)
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/orgcss.css"/>
+#+HTML_LINK_HOME: http://fogelmark.org
+#+HTML_LINK_UP: http://fogelmark.org
+#+OPTIONS: toc:nil author:nil ^:nil email:nil num:nil
+#+OPTIONS: html-postamble:nil
+#+LANGUAGE: en
+#+KEYWORDS: Giambattista D’Alessio Kallierges Pindar
+
+My book is an interdisciplinary study, in which the first half deals with my
+discovery that as many as ten sheets of the 1515 Kallierges /Pindar/ have been
+reset, most importantly at the beginning of the Pythian odes, where the first
+four quires (64 pages) have the Greek text in two textually different
+versions, which I call /Variant a/ and /Variant b/. The second half of the book
+deals mainly with the perhaps even more important discovery of a unique and
+hitherto unknown document consisting of three densely set pages of Greek
+prose whose contents are sensational from a book historical point of view.
+
+The major disagreement between D’Alessio and myself concerns the correct order
+of priority of the eight reset sheets of the Pythian odes. After a long and
+careful physical examination of the book by applying methods of analytical
+bibliography, I was finally able in 2015 to present the result of 25 years of
+research, based on the evidence of 227 copies from upwards of 80 libraries on
+two continents. The collected evidence indicated overwhelmingly that the
+variant which was ultimately called /Variant a/ was printed before /Variant b/ —
+hence the denominations. D’Alessio, however, is convinced that /Variant b/ was
+printed first.
+
+Our disagreement has led to a clash between two different methods of textual
+research. D’Alessio founds his opinion entirely on his own assessment of the
+merits of conflicting variant readings in the two settings. This is fine for
+an editor who is going to publish a new Greek edition, but is this a reliable
+tool also for deciding the question of priority?
+
+In chapter 4 (212) I explain why I have made little use of “one specific line
+of argumentation that might seem relevant to the issue” [sc. that of priority]
+“namely, which of the two variant readings is textually preferable in each
+case and therefore likely to represent the second setting [...]”. To show the
+fallacy of this method I compared the stands taken by a number of modern
+editors that showed that they were divided in their preferences in the choice
+of variant readings: “To a great extent, assessment of variant readings always
+was and always will be a matter of personal preference.” In other words, it
+is useless as evidence in a case of priority and that is why I have
+refrained from using it, contrary to D’Alessio, who makes it his preferred
+category of evidence.
+
+There is another method, however, that can give reliable answers, if the
+questions and conditions are right. It is known as analytical bibliography and
+involves an examination of the physical properties of the text-bearer, and,
+by contrast, can yield 100% exact and reliable answers. This is the method I
+have applied most of the time throughout the book, as it is the perfect tool
+for answering my questions. It relies not on arbitrariness or personal
+opinion, but on hard physical evidence that can never be disputed or explained
+away and which is of an enormously higher evidential order than a discussion
+of the supposed merits of this or that variant reading.
+
+Like the great majority in the world of classical scholarship D’Alessio
+obviously has never himself practised or come into contact with this method
+and so may be excused for not realizing its enormous potential for supplying
+relevant and trustworthy evidence. For the question of priority can /only/ be
+answered, or at least answered satisfactorily, by the application of
+bibliographical method; this is exactly what I have done in my book. But
+seventy pages of hard core evidence (120-194) cannot be repeated here.
+
+It is true that regarding the numerous arguments for the priority of /Variant
+a/ that I have adduced, I have said that no one single argument alone is
+strong enough to settle the matter once and for all (336). However, in doing
+so I was referring to the kind of decisiveness with which the word is used in
+the sciences: I was simply anxious not to overstate my case. D’Alessio,
+however, seems to have misunderstood my caution as a confession that I myself
+have doubts about the priority of /Variant a/ and about other matters that are
+expressed in an undogmatic way. This is not the case: many of the arguments
+based on bibliographical evidence are absolutely compelling, if we are to rely
+on sound logic.
+
+There is no point in confronting his various arguments one by one as they will
+all disappear at once as soon as it has become evident that /Variant a/ was
+set before /Variant b/. And such evidence there is. But since D’Alessio — who
+never tries to disprove any of my many bibliographical arguments — seems to
+be blind even to the most obvious facts, let me adduce one that gives
+conclusive evidence once and for all that /Variant b/ was set after /Variant
+a/. And this is a new argument.
+
+Bibliographical facts have made it evident that Kallierges began printing his
+/Pindar/ on two presses: one had its signatures in minuscules, the other in
+majuscules. Kallierges was compositor for one of the presses, his foreman for
+the other, but the famous printer of course supervised the work at both
+presses. One press was going to print the Olympian odes and their scholia, the
+other, the Pythian, Nemean and Isthmian odes. This means that one
+press started with the first Olympian ode and the other, with the first
+Pythian ode. (The preliminaries were set and printed last as usual.)
+
+The early printers went to extreme lengths to make their books as perfect as
+possible. And there was one thing that no printer, be he good or bad, would
+ever do: he would never change the layout of the text once he had made up his
+mind and started the typesetting.
+
+The typesetting for the two presses started. Kallierges was the boss and he
+decided to use the layout we meet on the first page of the Olympian odes.
+Needless to say, his foreman at the other press was ordered to apply the same
+layout for the Pythian odes — and so he did, thereby creating what I have
+been referring to as /Variant a/; moreover, the layout of /Variant a/ is exactly
+the same as that of the rest of the book, thereby proving its original status,
+as explained in the previous paragraph.
+
+According to D’Alessio, however, the text of /Variant b/ was set and printed
+before that of /Variant a/. That would require that Kallierges would have to
+have had a total mental breakdown the first day on the job and ordered his
+foreman to apply a strikingly different layout for the Pythian odes, one with
+negatively indented left-margin emphasis, headings in majuscules instead of
+minuscules, etc. It would also require that Kallierges did not recover from
+his unfortunate mental breakdown until after his foreman had set and printed
+the fourth quire (i.e., after 64 pages), when Kallierges suddenly became his
+normal self again and ordered his foreman from now on to apply the same layout
+as the one he himself used for the Olympian odes.
+
+Needless to say none of this ever happened, and could not have happened, and,
+honestly, I do not think that D’Alessio would still claim that it did.
+
+Yet someone set the four quires of /Variant b/. When was it done and why? These
+questions are fully answered in my book and need not be repeated here in
+detail, but, as so often, D’Alessio hides vital information from his readers,
+for example, that also paper evidence proves beyond a shadow of a doubt that
+the resetting was done as an extra job /after/ all the regular quires had been
+printed. This fact is mentioned a number of times in my book (192, 194, 234,
+259-61, 275, 395, 402); hence, D’Alessio knows this very well, as well as the
+fact that this is still another incontrovertible piece of evidence to prove
+that /Variant b/ was printed after /Variant a/.
+
+Why was /Variant b/, a special edition, designed to stand out typographically?
+A full answer to this question can be found in chapter 9. If D’Alessio had
+read that chapter, he would not have suggested that /Variant b/ was printed
+first.
+
+Furthermore, D’Alessio thinks that the copy with the dedication to Musurus was
+“printed /before/ the preliminaries were reset (and, again, I see no obstacle
+in the ‘analytical evidence generated by the physical examination’).”
+
+My physical examination of the layout of the preliminaries of the “Musurus”
+copy shows, again without the slightest doubt, that they were reset and that
+the original was the ordinary preliminaries present in all known copies
+(316-322), not the other way round as D’Alessio would have it. Moreover, every
+resetting shows without a shadow of a doubt that the purpose of the resetting
+was to make room for the long dedication while at the same time keeping as
+much as possible of the original preliminary material: none of the resettings
+was contextual. To manage this Kallierges had to make more than thirty
+textual alterations, both large and small, all of them in the form of
+amputation. Yet, D’Alessio sees “no obstacle in the ‘analytical evidence
+generated by the physical examination’.” Personally, I could think of more
+than thirty obstacles. As usual, D’Alessio gives no alternative reason for
+these alterations. (The only piece of ‘evidence’ adduced by him is the usual
+one: “It seems more natural to me…”).
+
+In the text for note 1, D’Alessio appears to have spotted a mistake on my part
+and takes the opportunity to put things right: the 1515 /Pindar/ is not the
+first Greek book printed in Rome as I have claimed, but “one of the first
+Greek books printed in Rome.” Instead, with a reference to A. Rollo, D’Alessio
+informs us that the first Greek book printed in Rome was /Operetta bellissima
+da imparare la lingua greca composta per Paulo Enea/, printed in 1510. (This is
+a short book of 22 pages only.)
+
+However, this is not a Greek book. A Greek book should be completely in Greek,
+or at least the major part of it: the 1515 /Pindar/ is completely in Greek
+except for the privilege on the title page, which is in Latin. The /Operetta
+bellissima/, which is not even a Greek book — it is an Italian book! — has a
+fair amount of Greek in it, but the major part of the text is not in Greek but
+in Latin and Italian. Moreover, a Greek book would have the title in Greek
+(the 1515 /Pindar/ does); the /Operetta bellissima/ does not, because it is not a
+Greek book. In short: the Kallierges /Pindar/ is still the first Greek book
+printed in Rome — /pace/ D’Alessio and Rollo.
+
+That D’Alessio is not comfortable with arguments of a bibliographical nature
+is evidenced also by the confusion that reigns in his bibliographical
+descriptions. Speaking of the first quire of copy no. 134 which is a ternion,
+he describes it as a quire consisting of three double leaves (i.e., three
+pairs of conjugate leaves) “corresponding to six sheets and twelve pages” (2,
+last paragraph). This does not make sense: twelve pages is correct, but six
+sheets in quarto correspond to 48 pages. He goes on to explain that “all
+copies bar one” begin with a binion (i.e., two pairs of conjugate leaves)
+“corresponding to four sheets, and eight pages.” However, four sheets equal 32
+pages. This confusion continues on the next page. “After a lacuna of … two
+sheets, two further sheets are preserved…”. This is a misunderstanding: there
+is no lacuna of two sheets (16 pages), nor are 16 further pages preserved. I
+suspect that D’Alessio meant to write “leaves” instead of “sheets” in all
+these instances.
+
+However, these are not D’Alessio’s only confusing statements. On the second
+page we find the following quotation: “Ultimately Fogelmark himself assesses
+the evidence and the arguments for the priority of /Variant b/ as in some cases
+‘bordering on decisiveness’, but finds ‘none of them strong enough to settle
+the matter once and for all’ (336).”  A Freudian slip?
