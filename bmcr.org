@@ -189,3 +189,7 @@ page we find the following quotation: “Ultimately Fogelmark himself assesses
 the evidence and the arguments for the priority of /Variant b/ as in some cases
 ‘bordering on decisiveness’, but finds ‘none of them strong enough to settle
 the matter once and for all’ (336).”  A Freudian slip?
+
+#+HTML: <br>
+
+The Editors of BMCR refused to publish my response...
