@@ -29,15 +29,14 @@
 *** University of Gothenburg
     - Professor of Greek, 1997-2004
 ** International Appointments/Honorary Fellowships
+   - Lund University, The New Society of Letters (1980).
+   - University of Edinburgh, UK,  Charles Gordon Mackay Lecturer (1979).
    - Harvard University, USA, Fellow of The Center for Hellenic Studies,
      Washington, D.C. (1973/74).
-   - University of Edinburgh, UK,  Charles Gordon Mackay Lecturer (1979).
-   - Lund University, The New Society of Letters (1980).
 ** Awards
-   - The Gleerup Prize, The New Society of Letters, Lund University (1992)
-   - Lund University Student Union Prize for Pedagogical Excellence (1995)
    - [[file:ilab.org][The ILAB Breslauer Prize for Bibliography]] (London, 25 May, 2018)
-
+   - Lund University Student Union Prize for Pedagogical Excellence (1995)
+   - The Gleerup Prize, The New Society of Letters, Lund University (1992)
 ** Research Scholarship
    Swedish Council for Research in the Humanities and Social Sciences
    (1991-93).
@@ -69,8 +68,8 @@
    - /[[file:kallierges.org][The Kallierges Pindar A Study in Renaissance Greek Scholarship and
      Printing]]./ Cologne: Dinter, 2015. (804 pp. in two vols.)
 
-   - [[file:bmcr.org][Response to Giambattista D’Alessio’s review]] in [[http://www.bmcreview.org/2017/07/20170727.html][BMCR 2017.07.27]] of /The
-     Kallierges Pindar: A Study in Renaissance Greek Scholarship and Printing/
+     - [[file:bmcr.org][Response to Giambattista D’Alessio’s review]] in [[http://www.bmcreview.org/2017/07/20170727.html][/BMCR/ 2017.07.27]] of /The
+       Kallierges Pindar: A Study in Renaissance Greek Scholarship and Printing/
 
 ** Articles
 
