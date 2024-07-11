@@ -6,5 +6,6 @@
 #+OPTIONS: html-postamble:nil
 #+LANGUAGE: en
 #+KEYWORDS: staffan fogelmark Doctor Jubilaris
+#+SETUPFILE: config.org
 
 [[file:fig/jubilaris.jpg]]

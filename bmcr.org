@@ -6,6 +6,7 @@
 #+OPTIONS: html-postamble:nil
 #+LANGUAGE: en
 #+KEYWORDS: Giambattista D’Alessio Kallierges Pindar
+#+SETUPFILE: config.org
 
 My book is an interdisciplinary study, in which the first half deals with my
 discovery that as many as ten sheets of the 1515 Kallierges /Pindar/ have been

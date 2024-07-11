@@ -7,7 +7,7 @@
 #+OPTIONS: html-postamble:nil
 #+LANGUAGE: en
 #+KEYWORDS: staffan fogelmark Dais Philesistephanos
-# #+DESCRIPTION:
+#+SETUPFILE: config.org
 
 [[file:fig/fest.jpeg]]
 
@@ -38,7 +38,7 @@
 
   12. Marianne Rozsondai: Remarks on the Lucretius-codex of the Bibliotheca Corviniana (Vienna, ÖNB Cod. 170),				p. 278
 
-  13. Marianne Wifstrand Schiebe: Ein Streifzug durch die Welt der frühen Quintiliandrucke, 					p. 292
+  13. Marianne Wifstrand Schiebe: Ein Streifzug durch die Welt der frühen Quintiliandrucke,                                     p. 292
 
   14. Anders Ollfors: The Anchor and the Dolphin and some Other Printer’s Devices,						p. 322
 

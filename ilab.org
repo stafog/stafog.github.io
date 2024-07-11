@@ -6,5 +6,6 @@
 #+OPTIONS: html-postamble:nil
 #+LANGUAGE: en
 #+KEYWORDS: staffan fogelmark ILAB Breslauer
+#+SETUPFILE: config.org
 
 [[file:fig/ILAB.jpg]]

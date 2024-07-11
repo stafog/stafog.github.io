@@ -8,13 +8,10 @@
 #+LANGUAGE: en
 #+KEYWORDS: staffan fogelmark
 #+DESCRIPTION: Official homepage of Professor Staffan Fogelmark
+#+SETUPFILE: config.org
 
 # Stylesheet from:
 # https://github.com/gongzhitaao/orgcss
-
-#+BEGIN_EXPORT html
-<script defer src="https://analytics.pioneerspacesim.net/script.js" data-website-id="043cb2c0-4871-47e1-8779-1f2ab2fa5b10"></script>
-#+END_EXPORT
 
 [[file:fig/1272916_fogelmark.jpg]]
 
